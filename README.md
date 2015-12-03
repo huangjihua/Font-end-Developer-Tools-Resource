@@ -10,7 +10,7 @@
 |             名称                  |                 说明            |
 |-----------------------------------|:-------------------------------:|
 |   [WebStorm](http://www.jetbrains.com/webstorm/) |    IDE/文本编辑器   |
-|   [SubLime](http://www.sublimetext.com/)|  
+|   [SubLimeText](http://www.sublimetext.com/)|  
 ###前端书籍
 |             名称                  |                 说明            |
 |-----------------------------------|:-------------------------------:|
