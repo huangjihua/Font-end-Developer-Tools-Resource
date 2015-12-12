@@ -70,6 +70,7 @@
 | [QUint](http://qunitjs.com/)|QUnit是一个强大的、易于使用的JavaScript单元测试框架。使用jQuery,jQuery UI和jQuery移动项目和有能力的测试任何通用的JavaScript代码,包括自己!|
 | [Mocha](http://mochajs.org/)|mocha 是一个简单、灵活有趣的 JavaScript 测试框架，用于 Node.js 和浏览器上的 JavaScript 应用测试|
 | [nodeUnit](https://github.com/caolan/nodeunit)| NodeUnit 是 Node.js 的单元测试框架，基于 assert 模块|
+| [CKStyle](http://ckstyle.github.io)|CKStyle是纯JS实现的CSS工具集,集成了检查(CSSLint)、美化(CSSBeautifier/CSSComb)、修复(暂无)、压缩(YUICompressor/cssmin/clean-css)工具|
 ###CSS预处理器
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
