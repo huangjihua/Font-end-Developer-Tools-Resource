@@ -79,3 +79,9 @@
 | [Bourbon](http://bourbon.io/)| 一个简单的和轻量级mixin Sass的库|
 | [LESS](http://www.lesscss.net/)|Less 最初使用 Ruby 开发的，后来移植到了 JavaScript 平台。推荐LESS的几个Mixin集[Less-Hat](http://lesshat.com/)以及 [LESS Elements](http://lesselements.com/)、[Twitter Bootstrap](http://getbootstrap.com/2.3.2/)和[Preboot](http://getpreboot.com/)都不错。详情请看[Battle of the LESS Mixin Libraries](http://designshack.net/articles/css/battle-of-the-less-mixin-libraries-less-elements-vs-less-hat-vs-bootstrap/)|
 | [Stylus](http://learnboost.github.io/stylus/)|Stylus 是一款 CSS 的预处理器，也就是我们常说的 CSS 框架。|
+
+###大神Blog
+|名称|说明|
+|-----------------------------------|:-------------------------------:|
+| [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html#3402207) | 汤姆大叔的博客 |
+| [《ES6 标准入门》（第二版）](http://es6.ruanyifeng.com)|作者：阮一峰｜
