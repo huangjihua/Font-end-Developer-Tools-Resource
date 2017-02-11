@@ -26,6 +26,7 @@
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [AngularJS](https://angularjs.org/)|  |
+| [Angular2.0视频教程来了！（视频和PPT的链接都在底部）](https://my.oschina.net/mumu/blog/834254)| |
 |[Backbone](http://backbonejs.org/#View)|Backbone正如他的名字-”脊椎“，他是一个小巧灵活的库，是个不错的工具，适合那些有一定Web基础，喜欢原生JS，自己去操作DOM（因为它没有DOM Binding），写一些框架、库、插件的同学。|
 |[Ember](http://emberjs.com/)|一个用于创建 web 应用的 JavaScript MVC 框架，采用基于字符串的Handlebars模板，支持双向绑定、观察者模式、计算属性（依赖其他属性动态变化）、自动更新模板、路由控制、状态机等。 |
 |[React](http://wiki.jikexueyuan.com/project/react/)|React 是 Facebook 推出的一个用来构建用户界面的 JavaScript 库。仅仅只是UI |
