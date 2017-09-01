@@ -1,21 +1,20 @@
 # Font-end-Developer-Tools-Resource
-
 前端开发工具和相关资源汇总
 
-###基础学习
+### 基础学习
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 |  [前端入门篇](http://www.cnblogs.com/jikey/p/3613082.html)   | css,js进阶篇，提高篇，工具篇，深化篇，移动篇|
 |  [《HTML & CSS: Design and Build Websites》]()|  |
 
-###Developer Tools
+### Developer Tools
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 |   [WebStorm](http://www.jetbrains.com/webstorm/) |    IDE/文本编辑器   |
 |   [SubLimeText](http://www.sublimetext.com/)| 代码编辑器（Sublime Text 2是收费软件，但可以无限期试用），也是HTML和散文先进的文本编辑器 |
 |   [Vim](http://www.vim.org/)| Linux 系统上的最著名的文本/代码编辑器,windows上可以用gVim|
 
-###Font-End Books
+### Font-End Books
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 |《JavaScript Dom编程艺术》 | 入门级,也适合想掌握一些前端技能的非前端工程师|
@@ -23,7 +22,7 @@
 |《JavaScript语言精粹》&《JavaScript设计模式》 |更优秀的代码,更优良的设计|
 | 《Secrets of the JavaScript Ninja>》《JavaScript Patterns》《ECMA-262 in Detail>》|想要搞复杂的工程实践，写靠谱的底层，可以看看|
 
-###Javascript Framework
+### Javascript Framework
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [AngularJS](https://angularjs.org/)| 大漠老师在慕课网发布了“AngularJS实战” http://www.imooc.com/learn/156 系列视频教程 |
@@ -49,7 +48,7 @@
 | [Amaze UI](http://amazeui.org/)|是基于社区开源项目构建的一个跨屏前端框架。 |
 | [Web Components](http://webcomponents.org/)|
 
-###Build Tools
+### Build Tools
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [Grunt](http://www.gruntjs.net/) | 前端自动化工具，提高工作效率 |
@@ -59,13 +58,13 @@
 | [Broccoli]() |  |
 
 
-###Package tool
+### Package tool
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [npm](https://www.npmjs.com/)|NPM的全称是Node Package Manager，是一个NodeJS包管理和分发工具，已经成为了非官方的发布Node模块（包）的标准。|
 | [Bower](http://bower.io/)|A package manager for the web.|
 
-###Unit Testing Tools
+### Unit Testing Tools
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [Karma](http://karma-runner.github.io/0.12/index.html) | 推荐使用，它有许多插件，支持 Webpack 和 Browserify。 |
@@ -73,7 +72,7 @@
 | [Mocha](http://mochajs.org/)|mocha 是一个简单、灵活有趣的 JavaScript 测试框架，用于 Node.js 和浏览器上的 JavaScript 应用测试|
 | [nodeUnit](https://github.com/caolan/nodeunit)| NodeUnit 是 Node.js 的单元测试框架，基于 assert 模块|
 | [CKStyle](http://ckstyle.github.io)|CKStyle是纯JS实现的CSS工具集,集成了检查(CSSLint)、美化(CSSBeautifier/CSSComb)、修复(暂无)、压缩(YUICompressor/cssmin/clean-css)工具|
-###CSS预处理器
+### CSS预处理器
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [Sass(Scss)](http://sass-lang.com/) |  Sass是最成熟、稳定和强大的专业级的CSS扩展语言.基于Ruby |
@@ -82,7 +81,7 @@
 | [LESS](http://www.lesscss.net/)|Less 最初使用 Ruby 开发的，后来移植到了 JavaScript 平台。推荐LESS的几个Mixin集[Less-Hat](http://lesshat.com/)以及 [LESS Elements](http://lesselements.com/)、[Twitter Bootstrap](http://getbootstrap.com/2.3.2/)和[Preboot](http://getpreboot.com/)都不错。详情请看[Battle of the LESS Mixin Libraries](http://designshack.net/articles/css/battle-of-the-less-mixin-libraries-less-elements-vs-less-hat-vs-bootstrap/)|
 | [Stylus](http://learnboost.github.io/stylus/)|Stylus 是一款 CSS 的预处理器，也就是我们常说的 CSS 框架。|
 
-###大神Blog
+### 大神Blog
 |名称|说明|
 |-----------------------------------|:-------------------------------:|
 | [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html#3402207) | 汤姆大叔的博客 |
